@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Victory King 
-- 👀 I’m interested in web/mobile 
-- 💞️ I’m looking to collaborate on related projects 
-- 📫 How to reach me onorhimevictory2017@gmail.com
-
-<!---
-onorhime/onorhime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dedicated Senior Software Engineer with over 7 years of experience developing innovative solutions across web, mobile, and cloud platforms. Specialized in full-stack development with expertise in JavaScript frameworks (React, Angular, Vue), Node.js, and modern backend technologies. Passionate about clean code architecture, performance optimization, and mentoring junior developers. Successfully led multiple cross-functional teams to deliver complex projects on time and under budget, resulting in improved business operations and increased client satisfaction. Strong problem-solving skills with a focus on creating scalable, maintainable software systems that drive business growth and technical excellence.
